@@ -1,0 +1,30 @@
+nav.navbar ul.nav li {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+h2, h1 {
+
+	font-family: 'Shadows Into Light', cursive;
+	font-weight: bold;
+}
+ 
+/* cambiar el color de fondo a la barra y al pie de pag.*/
+nav.navbar, footer {
+    background-color: #9e9e9e;
+}
+p.pie {
+	text-align: center;
+}
+img {
+    border-radius: 8px;
+}
+li {
+    display: inline;
+}
+img.img1, img.img2, img.img3, img.img4 {
+	  width: 100px; height: 100px;
+}
+
+@media	(max-width: 400px){
+	.col-sm-6 col-md-6 col-lg-6
+	display:none;
+}
