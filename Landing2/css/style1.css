@@ -1,0 +1,11 @@
+div {
+  background-img: url("imgs/Fondo.png");
+}
+h1{
+  font-family: 'Orbitron', sans-serif;
+  font-family: 'Bungee', cursive;
+}
+h3 {
+  font-family: 'Shadows Into Light', cursive;
+  font-weight: bold;
+}
